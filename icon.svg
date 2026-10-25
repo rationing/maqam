@@ -1,2 +1,4 @@
-<svg>
+<svg xmlns="http://www.w3.org/2000/svg">
+<circle r="400" fill="#00274C"></circle>
+<circle r="200" fill="#FFF"></circle>
 </svg>
